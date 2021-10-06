@@ -46,14 +46,6 @@ export const query = graphql`
           jumpToAnchor
           jumpToAnchorText
           menuText
-          portfolios {
-            content
-            extraInfo
-            header
-            subheader
-            imageFileNameDetail
-            imageFileName
-          }
           privacyHref
           privacyText
           services {
@@ -86,13 +78,13 @@ export const query = graphql`
           termsHref
           termsText
           title
-//           timeline {
-//             content
-//             header
-//             imageContent
-//             imageFileName
-//             subheader
-//           }
+          timeline {
+            content
+            header
+            imageContent
+            imageFileName
+            subheader
+          }
         }
         fields {
           fileName
