@@ -46,14 +46,14 @@ export const query = graphql`
           jumpToAnchor
           jumpToAnchorText
           menuText
-//           portfolios {
-//             content
-//             extraInfo
-//             header
-//             subheader
-//             imageFileNameDetail
-//             imageFileName
-//           }
+          portfolios {
+            content
+            extraInfo
+            header
+            subheader
+            imageFileNameDetail
+            imageFileName
+          }
           privacyHref
           privacyText
           services {
