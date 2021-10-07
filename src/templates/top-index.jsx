@@ -72,13 +72,6 @@ export const query = graphql`
           termsHref
           termsText
           title
-          timeline {
-            content
-            header
-            imageContent
-            imageFileName
-            subheader
-          }
         }
         fields {
           fileName
