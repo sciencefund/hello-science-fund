@@ -69,8 +69,6 @@ export const query = graphql`
             }
             subheader
           }
-          termsHref
-          termsText
           title
         }
         fields {
