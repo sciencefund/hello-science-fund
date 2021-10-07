@@ -26,7 +26,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
+    header: "...",
     subheader: "...",
     social: {
       twitter: "#",
