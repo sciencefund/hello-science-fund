@@ -17,9 +17,9 @@
     &.active,
     &:active,
     &:focus
-    // &:hover {
-    //   color: darken($primary, 10%) !important;
-    // }
+    &:hover {
+      // color: darken($primary, 10%) !important;
+    }
   }
 }
 @media (min-width: 992px) {
