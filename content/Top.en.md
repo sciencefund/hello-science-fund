@@ -1,5 +1,5 @@
 ---
-header: "Science Fund"
+header: "SF"
 subheader: "Reinventing the path to discovery"
 imageFileName: "header-bg.png"
 jumpToAnchor: "Services"
