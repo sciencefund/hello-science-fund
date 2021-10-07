@@ -1,10 +1,10 @@
 ---
-copyright: "© 2021 Science Fund DAO"
+copyright: "© 2021 science fund dao"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "White paper"
+privacyText: "white paper"
 privacyHref: "#!"
 ---
