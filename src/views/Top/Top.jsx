@@ -17,7 +17,7 @@ const Top = ({ frontmatter }) => {
   let extraInfoPart;
   if (jumpToAnchor && jumpToAnchorText) {
     extraInfoPart = (
-      <Button size="xl" variant="primary" className="text-uppercase" onClick={scrollToSection}>
+      <Button size="xl" variant="primary" className="text-uppercase" href="https://forms.gle/Di5BBHaqJZA1fNbG6">
         {jumpToAnchorText}
       </Button>
     );

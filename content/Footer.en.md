@@ -1,12 +1,10 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "© 2021 Science Fund DAO"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "Privacy Policy"
+privacyText: "White paper"
 privacyHref: "#!"
-termsText: "Terms of Use"
-termsHref: "#!"
 ---
