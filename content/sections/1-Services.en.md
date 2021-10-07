@@ -1,22 +1,22 @@
 ---
 anchor: "Services"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "Mission"
+subheader: "Our mission statement."
 services: [
   {
     iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2x",
+    content: "Double funding for science by the end of the decade."
   },
   {
     iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Impact",
+    content: "Reimagine how awardees are selected based on rapid, open publications that immediately impact the most urgent scientific questions."
   },
   {
     iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "web 3",
+    content: "Built on a foundation of open, transparent, decentralized technology that will power the next century of scientific breakthroughs."
   }
 ]
 ---
