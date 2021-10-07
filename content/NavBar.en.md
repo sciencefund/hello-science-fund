@@ -1,4 +1,4 @@
 ---
-brand: "Science Fund"
+brand: "SF"
 menuText: "Menu"
 ---
