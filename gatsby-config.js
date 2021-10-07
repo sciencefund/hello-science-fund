@@ -78,6 +78,10 @@ module.exports = {
             file: "https://fonts.googleapis.com/css2?family=Koh+Santepheap&display=swap",
           },
           {
+            name: "Koh Santepheap Light",
+            file: "https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@300&display=swap",
+          },
+          {
             name: "Roboto Slab",
             file: "https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap",
           },
