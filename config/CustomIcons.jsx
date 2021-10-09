@@ -4,8 +4,8 @@ import { faAngleDoubleUp, faBurn, faEthereum } from "@fortawesome/free-solid-svg
 
 export const ArrowUpIcon = makeFAIcon(faArrowCircleUp);
 export const BurnIcon = makeFAIcon(faBurn);
-export const EthereumIcon = makeFAIcon(faEthereum);
+// export const EthereumIcon = makeFAIcon(faEthereum);
 
 // export const ShoppingCartIcon = makeFAIcon(faArrowCircleUp);
 // export const LaptopIcon = makeFAIcon(faLaptop);
-// export const LockIcon = makeFAIcon(faLock);
+export const LockIcon = makeFAIcon(faLock);
