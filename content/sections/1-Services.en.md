@@ -14,7 +14,7 @@ services: [
     content: "Concentrate funds in specific communities to empower scientists to fully embrace rigorous, rapid, open science practices."
   },
   {
-    iconName: "LockIcon",
+    iconName: "BurnIcon",
     header: "web3",
     content: "Built on the future of web technology to drive the next century of scientific breakthroughs."
   }
