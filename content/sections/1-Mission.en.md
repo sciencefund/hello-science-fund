@@ -1,5 +1,5 @@
 ---
-anchor: "Services"
+anchor: "Mission"
 header: "Mission"
 subheader: "Our mission statement."
 services: [

@@ -7,7 +7,7 @@ import ServiceItem from "components/ServiceItem";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 
-const Services = ({ className, frontmatter }) => {
+const Mission = ({ className, frontmatter }) => {
   if (!frontmatter) {
     return null;
   }
@@ -30,14 +30,14 @@ const Services = ({ className, frontmatter }) => {
   );
 };
 
-Services.propTypes = {
+Mission.propTypes = {
   className: PropTypes.string,
   frontmatter: PropTypes.object,
 };
 
-Services.defaultProps = {
+Mission.defaultProps = {
   className: null,
   frontmatter: null,
 };
 
-export default Services;
+export default Mission;
