@@ -11,12 +11,12 @@ services: [
   {
     iconName: "BurnIcon",
     header: "Impact",
-    content: "Concentrate funds in specific communities to empower scientists to fully embrace rigorous, rapid, open science practices."
+    content: "Empower scientists to fully embrace rigorous, rapid, open science to accelerate scientific discovery."
   },
   {
     iconName: "RocketIcon",
     header: "web3",
-    content: "Built on the future of web technology to drive the next century of scientific breakthroughs."
+    content: "Built on traceable, immutable, decentralized technology to drive the next century of scientific breakthroughs."
   }
 ]
 ---
