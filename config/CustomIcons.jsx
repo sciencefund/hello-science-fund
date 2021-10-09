@@ -1,6 +1,6 @@
 import makeFAIcon from "utils/makeFAIcon";
 
-import { faAngleDoubleUp, faBurn } from "@fortawesome/free-solid-svg-icons";
+import { faAngleDoubleUp, faBurn, faBtc } from "@fortawesome/free-solid-svg-icons";
 
 export const ArrowUpIcon = makeFAIcon(faAngleDoubleUp);
 export const BurnIcon = makeFAIcon(faBurn);
