@@ -1,7 +1,7 @@
 ---
 header: "Science Fund"
 subheader: "Reinventing the path to discovery"
-imageFileName: "header-bg.png"
+imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Stay tuned"
 ---
