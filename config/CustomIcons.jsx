@@ -1,7 +1,11 @@
 import makeFAIcon from "utils/makeFAIcon";
 
-import { faArchive, faLaptop, faLock } from "@fortawesome/free-solid-svg-icons";
+import { faAngleDoubleUp, faBurn, faEthereum } from "@fortawesome/free-solid-svg-icons";
 
-export const ShoppingCartIcon = makeFAIcon(faArchive);
-export const LaptopIcon = makeFAIcon(faLaptop);
-export const LockIcon = makeFAIcon(faLock);
+export const ArrowUpIcon = makeFAIcon(faArrowCircleUp);
+export const BurnIcon = makeFAIcon(faBurn);
+export const EthereumIcon = makeFAIcon(faEthereum);
+
+// export const ShoppingCartIcon = makeFAIcon(faArrowCircleUp);
+// export const LaptopIcon = makeFAIcon(faLaptop);
+// export const LockIcon = makeFAIcon(faLock);

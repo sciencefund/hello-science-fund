@@ -4,19 +4,19 @@ header: "Mission"
 subheader: "Our mission statement."
 services: [
   {
-    iconName: "ShoppingCartIcon",
+    iconName: "ArrowUpIcon",
     header: "2x",
     content: "Double funding for science by the end of the decade."
   },
   {
-    iconName: "LaptopIcon",
+    iconName: "BurnIcon",
     header: "Impact",
-    content: "Reimagine how awardees are selected based on rapid, open publications that immediately impact the most urgent scientific questions."
+    content: "Concentrate funds in specific communities to empower scientists to fully embrace rigorous, rapid, open science practices."
   },
   {
-    iconName: "LockIcon",
-    header: "web 3",
-    content: "Built on a foundation of open, transparent, decentralized technology that will power the next century of scientific breakthroughs."
+    iconName: "EthereumIcon",
+    header: "web3",
+    content: "Built on the future of web technology to drive the next century of scientific breakthroughs."
   }
 ]
 ---
