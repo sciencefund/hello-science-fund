@@ -14,9 +14,9 @@ services: [
     content: "Empower scientists to fully embrace rigorous, rapid, open science to accelerate scientific discovery."
   },
   {
-    iconName: "RocketIcon",
-    header: "web3",
-    content: "Built on traceable, immutable, decentralized technology to drive the next century of scientific breakthroughs."
+    iconName: "EthereumIcon",
+    header: "DeSci",
+    content: "Built for the future on ethereum - traceable, immutable, decentralized records to drive the next century of scientific breakthroughs."
   }
 ]
 ---
