@@ -29,7 +29,7 @@ const Contact = ({ className, frontmatter }) => {
           </a>
         </Col>
         <Col lg={4} className="mr-auto text-center">
-          <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" />
+          <Icon iconName="EnvelopeIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`mailto:${email}`}>
             {email}
           </a>

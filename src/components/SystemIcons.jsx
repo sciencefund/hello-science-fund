@@ -17,7 +17,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 export const PhoneIcon = makeFAIcon(faPhone);
-export const EnvelopIcon = makeFAIcon(faEnvelope);
+export const EnvelopeIcon = makeFAIcon(faEnvelope);
 export const PlusIcon = makeFAIcon(faPlus);
 export const BarsIcon = makeFAIcon(faBars);
 export const GithubIcon = makeFAIcon(faGithubAlt);
