@@ -9,29 +9,27 @@ teamMember: [
     header: "Nate Jacobs",
     subheader: "...",
     social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+      twitter: "natesjacobs",
+      medium: "natesjacobs",
+      linkedin: "natesjacobs"
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/2.png",
     header: "Martin Etzrodt",
     subheader: "...",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      twitter: "etzrodtmartin",
+      linkedin: "etzrodtmartin"
     }
   },
   {
     imageFileName: "team/3.jpg",
-    header: "...",
+    header: "Yuguang Ipsen",
     subheader: "...",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      twitter: "mvlfyg",
+      linkedin: "yuguang-ipsen-ba671117"
     }
   },
 ]

@@ -10,12 +10,11 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "Funding agency for basic science, built on web3 technology.",
+  description: "Science Fund: Reinventing the path to discovery",
   author: "Science Fund",
   trackingId: "UA-119418003-5",
   defaultLang: "en",
   langTextMap: {
-    en: "English",
-    ja: "日本語",
+    en: "English"
   },
 };
