@@ -1,7 +1,7 @@
 ---
 anchor: "Mission"
 header: "Mission"
-subheader: "Our goal is to create a powerful new incentive structure for the pursuit of scientific discovery. One that does not require political connections, living in certain countries, or subservience to the status quo."
+subheader: "Our goal is to create a powerful new incentive structure for the pursuit of scientific discovery."
 services: [
   {
     iconName: "ArrowUpIcon",
@@ -11,7 +11,7 @@ services: [
   {
     iconName: "BurnIcon",
     header: "Impact",
-    content: "Use our funding programs to empower scientists to freely, openly, and rapidly pursue science, without wasting time on grant applications and onerous publishing venues."
+    content: "Empower scientists to freely, openly, and rapidly pursue science. No grant apps, years to publish, or political nonsense."
   },
   {
     iconName: "EthereumIcon",
