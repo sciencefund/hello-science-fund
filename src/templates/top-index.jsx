@@ -54,6 +54,7 @@ export const query = graphql`
             github
             linkedin
             medium
+            mail
             twitter
           }
           subheader
